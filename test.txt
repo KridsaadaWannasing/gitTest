@@ -1,5 +1,9 @@
 test git 2020
 
+<<<<<<< HEAD
 commit text in branch develop
 
 commit 2 text in branch develop
+=======
+test git rebase
+>>>>>>> 6a1e59a... test-git-rebase
