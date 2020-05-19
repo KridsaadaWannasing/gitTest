@@ -3,3 +3,5 @@ test git 2020
 test git rebase
 
 add text to add commit 2
+
+add text to add commit 3
